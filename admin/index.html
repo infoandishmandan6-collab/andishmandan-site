@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>پنل مدیریت | موسسه زبان اندیشمندان</title>
+<link rel="stylesheet" href="admin.css">
+</head>
+<body>
+
+<div id="loginScreen" class="login-screen">
+  <div class="login-box">
+    <h1>ورود به پنل مدیریت</h1>
+    <p class="sub">موسسه زبان اندیشمندان</p>
+    <div id="loginError" class="error-msg" style="display:none;"></div>
+    <div class="field">
+      <label>نام کاربری</label>
+      <input type="text" id="username" autocomplete="username">
+    </div>
+    <div class="field">
+      <label>رمز عبور</label>
+      <input type="password" id="password" autocomplete="current-password">
+    </div>
+    <button id="loginBtn" class="btn-primary">ورود</button>
+  </div>
+</div>
+
+<div id="dashboard" class="dashboard" style="display:none;">
+  <header class="topbar">
+    <h1>پنل مدیریت اندیشمندان</h1>
+    <button id="logoutBtn" class="btn-ghost-sm">خروج</button>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-table="registrations">ثبت‌نام‌ها <span class="badge" id="badge-registrations"></span></button>
+    <button class="tab-btn" data-table="collaborations">درخواست همکاری <span class="badge" id="badge-collaborations"></span></button>
+    <button class="tab-btn" data-table="testimonials">نظرات <span class="badge" id="badge-testimonials"></span></button>
+    <button class="tab-btn" data-table="complaints">شکایات <span class="badge" id="badge-complaints"></span></button>
+    <button class="tab-btn" data-custom="teachers">اساتید</button>
+    <button class="tab-btn" data-custom="gallery">گالری</button>
+    <button class="tab-btn" data-custom="content">محتوای سایت</button>
+  </nav>
+
+  <main class="content">
+    <div id="tableContainer"></div>
+    <div id="customContainer" style="display:none;"></div>
+  </main>
+</div>
+
+<script src="admin.js"></script>
+</body>
+</html>
