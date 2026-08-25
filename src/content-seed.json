@@ -1,0 +1,1258 @@
+[
+  {
+    "key": "global.span.1",
+    "section": "global",
+    "label": "موسسه زبان اندیشمندان",
+    "fa": "موسسه زبان اندیشمندان",
+    "en": "Andishmandan Institute of Language",
+    "ps": "د اندیشمندان د ژبې زده‌کړې مرکز"
+  },
+  {
+    "key": "global.small.2",
+    "section": "global",
+    "label": "Andishmandan Institute of Language",
+    "fa": "Andishmandan Institute of Language",
+    "en": "موسسه زبان اندیشمندان",
+    "ps": "Andishmandan Institute of Language"
+  },
+  {
+    "key": "global.a.3",
+    "section": "global",
+    "label": "درباره ما",
+    "fa": "درباره ما",
+    "en": "About",
+    "ps": "زموږ په اړه"
+  },
+  {
+    "key": "global.a.4",
+    "section": "global",
+    "label": "دوره‌ها",
+    "fa": "دوره‌ها",
+    "en": "Courses",
+    "ps": "کورسونه"
+  },
+  {
+    "key": "global.a.5",
+    "section": "global",
+    "label": "اساتید",
+    "fa": "اساتید",
+    "en": "Teachers",
+    "ps": "استادان"
+  },
+  {
+    "key": "global.a.6",
+    "section": "global",
+    "label": "گالری",
+    "fa": "گالری",
+    "en": "Gallery",
+    "ps": "ګالري"
+  },
+  {
+    "key": "global.a.7",
+    "section": "global",
+    "label": "صنف‌های آنلاین",
+    "fa": "صنف‌های آنلاین",
+    "en": "Online Classes",
+    "ps": "آنلاین ټولګي"
+  },
+  {
+    "key": "global.a.8",
+    "section": "global",
+    "label": "فرصت‌های شغلی",
+    "fa": "فرصت‌های شغلی",
+    "en": "Careers",
+    "ps": "کاري فرصتونه"
+  },
+  {
+    "key": "global.a.9",
+    "section": "global",
+    "label": "قوانین و مقررات",
+    "fa": "قوانین و مقررات",
+    "en": "Rules",
+    "ps": "قوانین او مقررات"
+  },
+  {
+    "key": "global.a.10",
+    "section": "global",
+    "label": "نظرات",
+    "fa": "نظرات",
+    "en": "Testimonials",
+    "ps": "نظرونه"
+  },
+  {
+    "key": "global.a.11",
+    "section": "global",
+    "label": "تماس",
+    "fa": "تماس",
+    "en": "Contact",
+    "ps": "اړیکه"
+  },
+  {
+    "key": "global.a.12",
+    "section": "global",
+    "label": "ثبت‌نام",
+    "fa": "ثبت‌نام",
+    "en": "Register",
+    "ps": "نوم لیکنه"
+  },
+  {
+    "key": "global.span.13",
+    "section": "global",
+    "label": "اندیشمندان؛ برند آموزش در افغانستان",
+    "fa": "اندیشمندان؛ برند آموزش در افغانستان",
+    "en": "Andishmandan — Afghanistan's Education Brand",
+    "ps": "اندیشمندان — د افغانستان د زده‌کړې نومیالی برانډ"
+  },
+  {
+    "key": "global.h1.14",
+    "section": "global",
+    "label": "مسیر شما تا تسلط بر زبان انگلیسی",
+    "fa": "مسیر شما تا تسلط بر زبان انگلیسی",
+    "en": "Your Path to Fluent English",
+    "ps": "ستاسو لار د انګلیسي ژبې پر مکمل زده‌کړې پورې"
+  },
+  {
+    "key": "global.p.15",
+    "section": "global",
+    "label": "دوره‌های جنرال انگلیسی و آیلتس، با کتاب‌های آکسفورد و سیستمی…",
+    "fa": "دوره‌های جنرال انگلیسی و آیلتس، با کتاب‌های آکسفورد و سیستمی که همیشه خودش را به‌روز نگه می‌دارد؛ طراحی‌شده برای رسیدن به هدف شما در حداکثر ۱۸ ماه.",
+    "en": "General English and IELTS programs, built on Oxford course materials with a system that always keeps itself up to date — designed to get you to your goal in 18 months or less.",
+    "ps": "د جنرال انګلیسي او آیلټس کورسونه، د آکسفورډ خپرندویه ادارې کتابونو پر بنسټ، او داسې سیسټم چې تل ځان تازه ساتي؛ ډیزاین شوی چې تاسو خپل هدف ته تر ۱۸ میاشتو په موده کې ورسوي."
+  },
+  {
+    "key": "global.a.16",
+    "section": "global",
+    "label": "ثبت‌نام در دوره",
+    "fa": "ثبت‌نام در دوره",
+    "en": "Register Now",
+    "ps": "په کورس کې نوم لیکنه"
+  },
+  {
+    "key": "global.a.17",
+    "section": "global",
+    "label": "مشاهده دوره‌ها",
+    "fa": "مشاهده دوره‌ها",
+    "en": "View Courses",
+    "ps": "کورسونه وګورئ"
+  },
+  {
+    "key": "about.h2.1",
+    "section": "about",
+    "label": "درباره اندیشمندان",
+    "fa": "درباره اندیشمندان",
+    "en": "About Andishmandan",
+    "ps": "د اندیشمندان په اړه"
+  },
+  {
+    "key": "about.p.2",
+    "section": "about",
+    "label": "اندیشمندان از سال ۱۳۹۹ کنار دانش‌آموزان خود ایستاده — نه با …",
+    "fa": "اندیشمندان از سال ۱۳۹۹ کنار دانش‌آموزان خود ایستاده — نه با شعار، بلکه با یک سیستم درست و کتاب‌های آکسفورد.",
+    "en": "Andishmandan has stood beside its students since 1399 — not with slogans, but with a solid system and Oxford course materials.",
+    "ps": "اندیشمندان له ۱۳۹۹ کال راهیسې د خپلو زده‌کوونکو تر څنګ ولاړ دی — نه یوازې په شعارونو، بلکې په یو سم سیسټم او د آکسفورډ کتابونو سره."
+  },
+  {
+    "key": "about.p.3",
+    "section": "about",
+    "label": "جنرال انگلیسی ما با کتاب انگلیش‌فایل، از A1 تا C1 پیش می‌رود…",
+    "fa": "جنرال انگلیسی ما با کتاب انگلیش‌فایل، از A1 تا C1 پیش می‌رود؛ آیلتس ما هم از مبتدی تا باند ۷، قدم‌به‌قدم و بدون عجله بی‌جا. کتاب‌هایی از نشریات دانشگاه آکسفورد (بزرگ‌ترین منبع بین‌المللی آموزش زبان انگلیسی در جهان) که با سال‌ها تلاش و پشتکار تیم فنی موسسه اندیشمندان برندسازی شده‌اند، تا مسیر رشد شما را سریع و مطمئن بسازد.",
+    "en": "Our General English track uses the English File series, from A1 to C1; our IELTS track goes from beginner to Band 7, step by step, without unnecessary rush. Our books come from Oxford University Press — the largest international source for English language teaching in the world — branded through years of effort by Andishmandan's technical team, to make your growth path fast and reliable.",
+    "ps": "زموږ عمومي انګلیسي کورس د انګلش فایل کتاب پر بنسټ، له A1 نه تر C1 پورې پرمخ ځي؛ زموږ آیلټس کورس هم له پیل نه تر بانډ ۷ پورې، ګام په ګام او پرته له غیرضروري بیړې. دا کتابونه د آکسفورډ پوهنتون له خپرندویې ادارې (په نړۍ کې تر ټولو لوی نړیوال سرچینه د انګلیسي ژبې زده‌کړې لپاره) دي، چې د اندیشمندان د تخنیکي ټیم په څو کلنه هڅه سره برانډ شوي، تر څو ستاسو د پرمختګ لار ګړندۍ او باوري کړي."
+  },
+  {
+    "key": "about.p.4",
+    "section": "about",
+    "label": "صنف‌های ما هم به‌صورت حضوری و هم آنلاین برگزار می‌شوند؛ گزین…",
+    "fa": "صنف‌های ما هم به‌صورت حضوری و هم آنلاین برگزار می‌شوند؛ گزینه آنلاین مخصوص کسانی است که امکان حضور فیزیکی ندارند، به‌خصوص دختران.",
+    "en": "Our classes are held both in-person and online; the online option is especially for those who cannot attend in person, particularly girls.",
+    "ps": "زموږ ټولګي په دواړو حضوري او آنلاین ډول جوړیږي؛ آنلاین ورکړه ځانګړې ده هغو کسانو لپاره چې د حضوري ګډون امکان نلري، په ځانګړي ډول نجونې."
+  },
+  {
+    "key": "about.span.5",
+    "section": "about",
+    "label": "صنف عادی",
+    "fa": "صنف عادی",
+    "en": "Regular",
+    "ps": "عادي ټولګی"
+  },
+  {
+    "key": "about.span.6",
+    "section": "about",
+    "label": "صنف فشرده",
+    "fa": "صنف فشرده",
+    "en": "Intensive",
+    "ps": "متمرکز ټولګی"
+  },
+  {
+    "key": "about.span.7",
+    "section": "about",
+    "label": "صنف‌های ویژه",
+    "fa": "صنف‌های ویژه",
+    "en": "Special Classes",
+    "ps": "ځانګړي ټولګي"
+  },
+  {
+    "key": "about.span.8",
+    "section": "about",
+    "label": "کودکان، نوجوانان، جوانان و بزرگسالان",
+    "fa": "کودکان، نوجوانان، جوانان و بزرگسالان",
+    "en": "Kids, Teens, Youth & Adults",
+    "ps": "ماشومان، ځوانان او لویان"
+  },
+  {
+    "key": "about.span.9",
+    "section": "about",
+    "label": "حضوری",
+    "fa": "حضوری",
+    "en": "In-Person",
+    "ps": "حضوري"
+  },
+  {
+    "key": "about.span.10",
+    "section": "about",
+    "label": "آنلاین",
+    "fa": "آنلاین",
+    "en": "Online",
+    "ps": "آنلاین"
+  },
+  {
+    "key": "about.span.11",
+    "section": "about",
+    "label": "سال تاسیس",
+    "fa": "سال تاسیس",
+    "en": "Founded",
+    "ps": "د تاسیس کال"
+  },
+  {
+    "key": "about.span.12",
+    "section": "about",
+    "label": "استاد مجرب",
+    "fa": "استاد مجرب",
+    "en": "Expert Teachers",
+    "ps": "مجرب استادان"
+  },
+  {
+    "key": "about.span.13",
+    "section": "about",
+    "label": "دانش‌آموز",
+    "fa": "دانش‌آموز",
+    "en": "Students",
+    "ps": "زده‌کوونکي"
+  },
+  {
+    "key": "about.span.14",
+    "section": "about",
+    "label": "ماه، حداکثر مسیر تا هدف",
+    "fa": "ماه، حداکثر مسیر تا هدف",
+    "en": "Months to your goal",
+    "ps": "میاشتې، تر هدف پورې تر ټولو ډېر موده"
+  },
+  {
+    "key": "courses.span.1",
+    "section": "courses",
+    "label": "دوره‌ها",
+    "fa": "دوره‌ها",
+    "en": "Programs",
+    "ps": "کورسونه"
+  },
+  {
+    "key": "courses.h2.2",
+    "section": "courses",
+    "label": "دو مسیر، دو هدف",
+    "fa": "دو مسیر، دو هدف",
+    "en": "Two Tracks, Two Goals",
+    "ps": "دوه لارې، دوه موخې"
+  },
+  {
+    "key": "courses.p.3",
+    "section": "courses",
+    "label": "جنرال انگلیسی و آیلتس در یک ساختمان برگزار می‌شوند، اما با ا…",
+    "fa": "جنرال انگلیسی و آیلتس در یک ساختمان برگزار می‌شوند، اما با استادان و صنف‌های کاملاً جداگانه.",
+    "en": "General English and IELTS run in the same building — but with completely separate teachers and classes.",
+    "ps": "عمومي انګلیسي او آیلټس په یوه ودانۍ کې جوړیږي، خو د بېلابېلو استادانو او بېلابېلو ټولګیو سره."
+  },
+  {
+    "key": "courses.span.4",
+    "section": "courses",
+    "label": "بخش جنرال انگلیسی",
+    "fa": "بخش جنرال انگلیسی",
+    "en": "General English Department",
+    "ps": "د عمومي انګلیسي څانګه"
+  },
+  {
+    "key": "courses.h3.5",
+    "section": "courses",
+    "label": "جنرال انگلیسی",
+    "fa": "جنرال انگلیسی",
+    "en": "General English",
+    "ps": "عمومي انګلیسي"
+  },
+  {
+    "key": "courses.p.6",
+    "section": "courses",
+    "label": "برای کسانی که هدف‌شان مکالمه روان، سفر یا استفاده روزمره از …",
+    "fa": "برای کسانی که هدف‌شان مکالمه روان، سفر یا استفاده روزمره از زبان است.",
+    "en": "For anyone whose goal is fluent conversation, travel, or everyday use.",
+    "ps": "د هغو کسانو لپاره چې موخه یې روانې خبرې اترې، سفر، یا ورځني کارونه دي."
+  },
+  {
+    "key": "courses.li.7",
+    "section": "courses",
+    "label": "بر اساس کتاب انگلیش‌فایل، از A1 تا C1",
+    "fa": "بر اساس کتاب انگلیش‌فایل، از A1 تا C1",
+    "en": "Based on English File, from A1 to C1",
+    "ps": "د انګلش فایل کتاب پر بنسټ، له A1 نه تر C1 پورې"
+  },
+  {
+    "key": "courses.li.8",
+    "section": "courses",
+    "label": "صنف عادی، فشرده و ویژه",
+    "fa": "صنف عادی، فشرده و ویژه",
+    "en": "Regular, intensive and special classes",
+    "ps": "عادي، متمرکز او ځانګړي ټولګي"
+  },
+  {
+    "key": "courses.span.9",
+    "section": "courses",
+    "label": "بخش آیلتس",
+    "fa": "بخش آیلتس",
+    "en": "IELTS Department",
+    "ps": "د آیلټس څانګه"
+  },
+  {
+    "key": "courses.h3.10",
+    "section": "courses",
+    "label": "آیلتس",
+    "fa": "آیلتس",
+    "en": "IELTS",
+    "ps": "آیلټس"
+  },
+  {
+    "key": "courses.p.11",
+    "section": "courses",
+    "label": "برای کسانی که برای مهاجرت، دانشگاه یا کار به نمره مشخص آیلتس…",
+    "fa": "برای کسانی که برای مهاجرت، دانشگاه یا کار به نمره مشخص آیلتس نیاز دارند.",
+    "en": "For those who need a specific IELTS score for immigration, university, or work.",
+    "ps": "د هغو کسانو لپاره چې د مهاجرت، پوهنتون یا دندې لپاره یې ټاکلې آیلټس نمرې ته اړتیا لري."
+  },
+  {
+    "key": "courses.li.12",
+    "section": "courses",
+    "label": "از سطح مبتدی تا باند ۷",
+    "fa": "از سطح مبتدی تا باند ۷",
+    "en": "From beginner to Band 7",
+    "ps": "له پیل کچې نه تر بانډ ۷ پورې"
+  },
+  {
+    "key": "courses.li.13",
+    "section": "courses",
+    "label": "استادان و صنف‌های اختصاصی آیلتس",
+    "fa": "استادان و صنف‌های اختصاصی آیلتس",
+    "en": "Dedicated IELTS teachers and classes",
+    "ps": "ځانګړي آیلټس استادان او ټولګي"
+  },
+  {
+    "key": "courses.span.14",
+    "section": "courses",
+    "label": "گروه سنی",
+    "fa": "گروه سنی",
+    "en": "Age Group",
+    "ps": "د عمر ډله"
+  },
+  {
+    "key": "courses.h3.15",
+    "section": "courses",
+    "label": "صنف‌های کودک و نوجوان (۱۰ تا ۱۴ سال)",
+    "fa": "صنف‌های کودک و نوجوان (۱۰ تا ۱۴ سال)",
+    "en": "Children & Teens Classes (Ages 10–14)",
+    "ps": "د ماشومانو او ځوانانو ټولګي (۱۰ تر ۱۴ کلنۍ)"
+  },
+  {
+    "key": "courses.span.16",
+    "section": "courses",
+    "label": "گروه سنی",
+    "fa": "گروه سنی",
+    "en": "Age Group",
+    "ps": "د عمر ډله"
+  },
+  {
+    "key": "courses.h3.17",
+    "section": "courses",
+    "label": "صنف‌های جوانان و بزرگسالان (بالای ۱۵ سال)",
+    "fa": "صنف‌های جوانان و بزرگسالان (بالای ۱۵ سال)",
+    "en": "Youth & Adults Classes (Ages 15+)",
+    "ps": "د ځوانانو او لویانو ټولګي (له ۱۵ کلنۍ نه پورته)"
+  },
+  {
+    "key": "teachers.span.1",
+    "section": "teachers",
+    "label": "اساتید",
+    "fa": "اساتید",
+    "en": "Teachers",
+    "ps": "استادان"
+  },
+  {
+    "key": "teachers.h2.2",
+    "section": "teachers",
+    "label": "با اساتید ما آشنا شوید",
+    "fa": "با اساتید ما آشنا شوید",
+    "en": "Meet Our Teachers",
+    "ps": "زموږ له استادانو سره آشنا شئ"
+  },
+  {
+    "key": "teachers.p.3",
+    "section": "teachers",
+    "label": "استادان مجرب در بخش جنرال انگلیسی و آیلتس، آماده کمک به شما …",
+    "fa": "استادان مجرب در بخش جنرال انگلیسی و آیلتس، آماده کمک به شما برای رسیدن به هدف‌تان.",
+    "en": "Experienced teachers in both General English and IELTS, ready to help you reach your goal.",
+    "ps": "په عمومي انګلیسي او آیلټس برخو کې تجربه‌لرونکي استادان، ستاسو د موخې ترلاسه کولو لپاره چمتو دي."
+  },
+  {
+    "key": "gallery.span.1",
+    "section": "gallery",
+    "label": "گالری",
+    "fa": "گالری",
+    "en": "Gallery",
+    "ps": "ګالري"
+  },
+  {
+    "key": "gallery.h2.2",
+    "section": "gallery",
+    "label": "گالری عکس و ویدیو",
+    "fa": "گالری عکس و ویدیو",
+    "en": "Photo & Video Gallery",
+    "ps": "د عکس او ویډیو ګالري"
+  },
+  {
+    "key": "gallery.p.3",
+    "section": "gallery",
+    "label": "نگاهی به فضای آموزشی، رویدادها و لحظات موسسه اندیشمندان.",
+    "fa": "نگاهی به فضای آموزشی، رویدادها و لحظات موسسه اندیشمندان.",
+    "en": "A look at Andishmandan's learning space, events, and moments.",
+    "ps": "د اندیشمندان مرکز زده‌کړیز چاپیریال، پیښو او شیبو ته یوه کتنه."
+  },
+  {
+    "key": "roadmap.span.1",
+    "section": "roadmap",
+    "label": "مسیر یادگیری",
+    "fa": "مسیر یادگیری",
+    "en": "The Path",
+    "ps": "د زده‌کړې لاره"
+  },
+  {
+    "key": "roadmap.h2.2",
+    "section": "roadmap",
+    "label": "از صفر تا هدف",
+    "fa": "از صفر تا هدف",
+    "en": "From Zero to Your Goal",
+    "ps": "له صفر نه تر موخې پورې"
+  },
+  {
+    "key": "roadmap.h4.3",
+    "section": "roadmap",
+    "label": "ارزیابی سطح",
+    "fa": "ارزیابی سطح",
+    "en": "Placement",
+    "ps": "د کچې ارزونه"
+  },
+  {
+    "key": "roadmap.p.4",
+    "section": "roadmap",
+    "label": "تعیین سطح فعلی شما و انتخاب مسیر مناسب.",
+    "fa": "تعیین سطح فعلی شما و انتخاب مسیر مناسب.",
+    "en": "We determine your current level and the right track.",
+    "ps": "ستاسو د اوسنۍ کچې ټاکل او د مناسبې لارې غوره کول."
+  },
+  {
+    "key": "roadmap.h4.5",
+    "section": "roadmap",
+    "label": "پایه‌ریزی",
+    "fa": "پایه‌ریزی",
+    "en": "Foundations",
+    "ps": "بنسټ ایښودل"
+  },
+  {
+    "key": "roadmap.p.6",
+    "section": "roadmap",
+    "label": "ساخت پایه محکم گرامری و مکالمه‌ای.",
+    "fa": "ساخت پایه محکم گرامری و مکالمه‌ای.",
+    "en": "Building solid grammar and speaking foundations.",
+    "ps": "د ګرامر او خبرو اترو کلک بنسټ جوړول."
+  },
+  {
+    "key": "roadmap.h4.7",
+    "section": "roadmap",
+    "label": "تثبیت و پیشرفت",
+    "fa": "تثبیت و پیشرفت",
+    "en": "Progress",
+    "ps": "پياوړتیا او پرمختګ"
+  },
+  {
+    "key": "roadmap.p.8",
+    "section": "roadmap",
+    "label": "ادامه جنرال انگلیسی یا شروع صنف اختصاصی آیلتس.",
+    "fa": "ادامه جنرال انگلیسی یا شروع صنف اختصاصی آیلتس.",
+    "en": "Continue General English, or start the dedicated IELTS track.",
+    "ps": "د عمومي انګلیسي دوام یا د ځانګړي آیلټس ټولګي پیل."
+  },
+  {
+    "key": "roadmap.h4.9",
+    "section": "roadmap",
+    "label": "رسیدن به هدف (حداکثر ۱۸ ماه)",
+    "fa": "رسیدن به هدف (حداکثر ۱۸ ماه)",
+    "en": "Reaching Your Goal (18 months max)",
+    "ps": "موخې ته رسیدل (تر ۱۸ میاشتو پورې)"
+  },
+  {
+    "key": "roadmap.p.10",
+    "section": "roadmap",
+    "label": "مکالمه روان، یا آمادگی کامل برای باند ۷ آیلتس.",
+    "fa": "مکالمه روان، یا آمادگی کامل برای باند ۷ آیلتس.",
+    "en": "Fluent conversation, or full readiness for IELTS Band 7.",
+    "ps": "روانې خبرې اترې، یا د آیلټس بانډ ۷ لپاره بشپړ چمتووالی."
+  },
+  {
+    "key": "jobs.span.1",
+    "section": "jobs",
+    "label": "فرصت‌های شغلی",
+    "fa": "فرصت‌های شغلی",
+    "en": "Careers",
+    "ps": "کاري فرصتونه"
+  },
+  {
+    "key": "jobs.h2.2",
+    "section": "jobs",
+    "label": "به تیم ما بپیوندید",
+    "fa": "به تیم ما بپیوندید",
+    "en": "Join Our Team",
+    "ps": "زموږ ډلې سره یوځای شئ"
+  },
+  {
+    "key": "jobs.p.3",
+    "section": "jobs",
+    "label": "اندیشمندان همیشه به دنبال افراد مستعد است.",
+    "fa": "اندیشمندان همیشه به دنبال افراد مستعد است.",
+    "en": "Andishmandan is always looking for talented people.",
+    "ps": "اندیشمندان تل وړ کسان لټوي."
+  },
+  {
+    "key": "jobs.h3.4",
+    "section": "jobs",
+    "label": "جذب پرسنل",
+    "fa": "جذب پرسنل",
+    "en": "Staff Recruitment",
+    "ps": "د کارکوونکو استخدام"
+  },
+  {
+    "key": "jobs.p.5",
+    "section": "jobs",
+    "label": "به تیم اداری و اجرایی موسسه بپیوندید.",
+    "fa": "به تیم اداری و اجرایی موسسه بپیوندید.",
+    "en": "Join the administrative and operations team.",
+    "ps": "د مرکز له اداري او اجرایوي ډلې سره یوځای شئ."
+  },
+  {
+    "key": "jobs.a.6",
+    "section": "jobs",
+    "label": "ارسال درخواست",
+    "fa": "ارسال درخواست",
+    "en": "Apply",
+    "ps": "غوښتنلیک ولیږئ"
+  },
+  {
+    "key": "jobs.h3.7",
+    "section": "jobs",
+    "label": "جذب مدرس",
+    "fa": "جذب مدرس",
+    "en": "Teacher Recruitment",
+    "ps": "د استاد استخدام"
+  },
+  {
+    "key": "jobs.p.8",
+    "section": "jobs",
+    "label": "اگر مدرس با تجربه زبان انگلیسی هستید، به ما بپیوندید.",
+    "fa": "اگر مدرس با تجربه زبان انگلیسی هستید، به ما بپیوندید.",
+    "en": "If you're an experienced English teacher, join us.",
+    "ps": "که تاسو د انګلیسي ژبې تجربه‌لرونکی استاد یاست، زموږ سره یوځای شئ."
+  },
+  {
+    "key": "jobs.a.9",
+    "section": "jobs",
+    "label": "ارسال درخواست",
+    "fa": "ارسال درخواست",
+    "en": "Apply",
+    "ps": "غوښتنلیک ولیږئ"
+  },
+  {
+    "key": "jobs.h3.10",
+    "section": "jobs",
+    "label": "درخواست نمایندگی",
+    "fa": "درخواست نمایندگی",
+    "en": "Representative / Agency",
+    "ps": "د استازیتوب غوښتنه"
+  },
+  {
+    "key": "jobs.p.11",
+    "section": "jobs",
+    "label": "علاقه‌مند به راه‌اندازی نمایندگی اندیشمندان در شهر خود هستید…",
+    "fa": "علاقه‌مند به راه‌اندازی نمایندگی اندیشمندان در شهر خود هستید؟",
+    "en": "Interested in opening an Andishmandan branch in your city?",
+    "ps": "آیا غواړئ چې په خپل ښار کې د اندیشمندان استازیتوب پرانیزئ؟"
+  },
+  {
+    "key": "jobs.a.12",
+    "section": "jobs",
+    "label": "ارسال درخواست",
+    "fa": "ارسال درخواست",
+    "en": "Apply",
+    "ps": "غوښتنلیک ولیږئ"
+  },
+  {
+    "key": "representative.span.1",
+    "section": "representative",
+    "label": "فرصت‌های شغلی",
+    "fa": "فرصت‌های شغلی",
+    "en": "Careers",
+    "ps": "کاري فرصتونه"
+  },
+  {
+    "key": "representative.h2.2",
+    "section": "representative",
+    "label": "فرم درخواست همکاری",
+    "fa": "فرم درخواست همکاری",
+    "en": "Opportunity Application Form",
+    "ps": "د همکارۍ غوښتنلیک فورمه"
+  },
+  {
+    "key": "representative.p.3",
+    "section": "representative",
+    "label": "تیم اندیشمندان همیشه دنبال افراد مستعد است.",
+    "fa": "تیم اندیشمندان همیشه دنبال افراد مستعد است.",
+    "en": "The Andishmandan team is always looking for talented people.",
+    "ps": "د اندیشمندان ټیم تل وړ کسان لټوي."
+  },
+  {
+    "key": "representative.label.4",
+    "section": "representative",
+    "label": "نام کامل",
+    "fa": "نام کامل",
+    "en": "Full Name",
+    "ps": "بشپړ نوم"
+  },
+  {
+    "key": "representative.label.5",
+    "section": "representative",
+    "label": "شماره تماس",
+    "fa": "شماره تماس",
+    "en": "Phone Number",
+    "ps": "د اړیکې شمیره"
+  },
+  {
+    "key": "representative.label.6",
+    "section": "representative",
+    "label": "ایمیل آدرس",
+    "fa": "ایمیل آدرس",
+    "en": "Email Address",
+    "ps": "بریښنالیک پته"
+  },
+  {
+    "key": "representative.label.7",
+    "section": "representative",
+    "label": "چگونه می‌خواهید به ما بپیوندید",
+    "fa": "چگونه می‌خواهید به ما بپیوندید",
+    "en": "How would you like to join us",
+    "ps": "تاسو غواړئ څنګه زموږ سره یوځای شئ"
+  },
+  {
+    "key": "representative.label.8",
+    "section": "representative",
+    "label": "مقطع تحصیلی",
+    "fa": "مقطع تحصیلی",
+    "en": "Education Level",
+    "ps": "د زده‌کړې کچه"
+  },
+  {
+    "key": "representative.label.9",
+    "section": "representative",
+    "label": "سابقه تدریس",
+    "fa": "سابقه تدریس",
+    "en": "Teaching Experience",
+    "ps": "د ښوونې تجربه"
+  },
+  {
+    "key": "representative.label.10",
+    "section": "representative",
+    "label": "مدرک زبان انگلیسی چی دارید",
+    "fa": "مدرک زبان انگلیسی چی دارید",
+    "en": "What English Certificate Do You Have",
+    "ps": "د انګلیسي ژبې کوم سند لرئ"
+  },
+  {
+    "key": "representative.button.11",
+    "section": "representative",
+    "label": "ارسال درخواست",
+    "fa": "ارسال درخواست",
+    "en": "Submit Application",
+    "ps": "غوښتنلیک ولیږئ"
+  },
+  {
+    "key": "rules.span.1",
+    "section": "rules",
+    "label": "قوانین و مقررات",
+    "fa": "قوانین و مقررات",
+    "en": "Rules & Regulations",
+    "ps": "قوانین او مقررات"
+  },
+  {
+    "key": "rules.h2.2",
+    "section": "rules",
+    "label": "قوانین و مقررات موسسه",
+    "fa": "قوانین و مقررات موسسه",
+    "en": "Institute Rules & Regulations",
+    "ps": "د مرکز قوانین او مقررات"
+  },
+  {
+    "key": "rules.p.3",
+    "section": "rules",
+    "label": "لطفاً پیش از ثبت‌نام، این موارد را با دقت مطالعه بفرمایید.",
+    "fa": "لطفاً پیش از ثبت‌نام، این موارد را با دقت مطالعه بفرمایید.",
+    "en": "Please read these carefully before registering.",
+    "ps": "مهرباني وکړئ د نوم لیکنې دمخه دا ټکي په ډیر پام سره ولولئ."
+  },
+  {
+    "key": "rules.button.4",
+    "section": "rules",
+    "label": "آئین‌نامه انضباطی",
+    "fa": "آئین‌نامه انضباطی",
+    "en": "Disciplinary Regulations",
+    "ps": "د تادیب مقررات"
+  },
+  {
+    "key": "rules.button.5",
+    "section": "rules",
+    "label": "قوانین ثبت‌نام",
+    "fa": "قوانین ثبت‌نام",
+    "en": "Registration Rules",
+    "ps": "د نوم لیکنې قوانین"
+  },
+  {
+    "key": "rules.span.6",
+    "section": "rules",
+    "label": "ملزم به رعایت قوانین و مقررات نافذه حکومت اسلامی افغانستان م…",
+    "fa": "ملزم به رعایت قوانین و مقررات نافذه حکومت اسلامی افغانستان می‌باشم.",
+    "en": "I am bound to observe the laws and regulations in force of the Islamic Government of Afghanistan.",
+    "ps": "زه د افغانستان اسلامي حکومت د نافذه قوانینو او مقرراتو رعایت ته ژمن یم."
+  },
+  {
+    "key": "rules.span.7",
+    "section": "rules",
+    "label": "ملزم به رعایت حجاب اسلامی و اصول اخلاقی می‌باشم.",
+    "fa": "ملزم به رعایت حجاب اسلامی و اصول اخلاقی می‌باشم.",
+    "en": "I am bound to observe Islamic hijab and ethical principles.",
+    "ps": "زه د اسلامي حجاب او اخلاقي اصولو رعایت ته ژمن یم."
+  },
+  {
+    "key": "rules.span.8",
+    "section": "rules",
+    "label": "کلیه مقررات انضباطی موسسه را که به موجب این قرارداد پذیرفته …",
+    "fa": "کلیه مقررات انضباطی موسسه را که به موجب این قرارداد پذیرفته و در تمام مدت تحصیل تصویب می‌گردد، جزء لاینفک این قرارداد تلقی نموده و خود را ملزم به رعایت آن‌ها می‌دانم.",
+    "en": "I consider all disciplinary regulations of the institute, accepted under this agreement and approved throughout the study period, as an inseparable part of this agreement and bind myself to observe them.",
+    "ps": "زه د مرکز ټول تادیبي مقررات، چې د دې تړون له مخې منل شوي او د زده‌کړې په ټوله موده کې تصویب کیږي، د دې تړون یوه بېلګه‌ناکېدونکې برخه بولم او د هغو رعایت ته ځان ژمن ګڼم."
+  },
+  {
+    "key": "rules.span.9",
+    "section": "rules",
+    "label": "مبتلا به هیچ نوع مریضی جسمی خاص که نیازمند مراقبت‌های ویژه ب…",
+    "fa": "مبتلا به هیچ نوع مریضی جسمی خاص که نیازمند مراقبت‌های ویژه باشد یا مریضی روحی نیستم. در صورت ابتلا، زبان‌آموز مکلف است نوع مریضی خود را کتباً به مسئول آموزشی اطلاع بدهد. لازم به ذکر است که اطلاعات ارائه‌شده کاملاً محرمانه تلقی خواهد شد.",
+    "en": "I am not afflicted with any special physical illness requiring special care, nor any mental illness. If afflicted, the student is obliged to inform the education officer in writing. It should be noted that the information provided will be treated as strictly confidential.",
+    "ps": "زه هیڅ ډول ځانګړي جسمي ناروغۍ چې ځانګړي پاملرنې ته اړتیا ولري، یا رواني ناروغۍ نه لرم. که چیرې داسې وضعیت رامنځته شي، زده‌کوونکی مکلف دی چې د خپلې ناروغۍ ډول د زده‌کړې مسوول ته لیکلي ډول خبر کړي. یادونه: ورکړل شوي معلومات په بشپړ ډول محرم ساتل کیږي."
+  },
+  {
+    "key": "rules.span.10",
+    "section": "rules",
+    "label": "پس از ثبت‌نام هیچ‌گونه تقاضای تغییر صنف نمی‌نمایم.",
+    "fa": "پس از ثبت‌نام هیچ‌گونه تقاضای تغییر صنف نمی‌نمایم.",
+    "en": "After registration, I will not request any change of class.",
+    "ps": "زه د نوم لیکنې وروسته د ټولګي بدلون هیڅ ډول غوښتنه نه کوم."
+  },
+  {
+    "key": "rules.span.11",
+    "section": "rules",
+    "label": "برابر تقویم آموزشی موسسه در مکان برگزاری صنف (چه حضوری و چه …",
+    "fa": "برابر تقویم آموزشی موسسه در مکان برگزاری صنف (چه حضوری و چه مجازی)، آماده می‌گردم و می‌پذیرم که پس از حضور مدرس در صنف، اجازه ورود به صنف را ندارم و در این خصوص هیچ‌گونه اعتراضی نخواهم داشت.",
+    "en": "I will be ready per the institute's academic calendar at the class venue (whether in-person or virtual), and I accept that once the instructor is present in class, I will not be allowed to enter, and I will have no objection in this regard.",
+    "ps": "زه به د مرکز د زده‌کړې تقویم سره سم د ټولګي په ځای کې (که حضوري وي که مجازي) چمتو یم، او منم چې د استاد له ورتګ وروسته ټولګي ته د ننوتلو اجازه نه لرم او پدې اړه به هیڅ ډول اعتراض ونه لرم."
+  },
+  {
+    "key": "rules.span.12",
+    "section": "rules",
+    "label": "می‌پذیرم که در طول تمام دوره آموزشی، حداکثر مجاز به سه جلسه …",
+    "fa": "می‌پذیرم که در طول تمام دوره آموزشی، حداکثر مجاز به سه جلسه غیبت از صنف می‌باشم؛ در صورت غیبت بیشتر از این میزان، نمره صفر در امتحان مربوطه برایم درج می‌گردد و در این خصوص حق هیچ‌گونه شکایتی را نخواهم داشت.",
+    "en": "I accept that throughout the entire course, I am allowed a maximum of three absences from class; beyond that, a zero will be recorded on the relevant exam, and I will have no right to complain in this regard.",
+    "ps": "زه منم چې د ټول کورس په اوږدو کې، تر ټولو ډېر درې ټولګي غیرحاضرۍ ته اجازه لرم؛ که له دې اندازې زیاته غیرحاضري وشي، نو په اړوند ازموینه کې صفر نمره درج کیږي او پدې اړه به د شکایت هیڅ حق ونه لرم."
+  },
+  {
+    "key": "rules.span.13",
+    "section": "rules",
+    "label": "متعهد به پرداخت کلیه تعهدات مالی بر اساس برنامه زمان‌بندی می…",
+    "fa": "متعهد به پرداخت کلیه تعهدات مالی بر اساس برنامه زمان‌بندی می‌باشم و می‌پذیرم که موسسه می‌تواند از حضور هر زبان‌آموزی که تعهدات مالی خود را انجام نداده باشد، جلوگیری نماید.",
+    "en": "I am committed to paying all financial obligations according to the schedule, and I accept that the institute may prevent the attendance of any student who has not fulfilled their financial obligations.",
+    "ps": "زه د ټاکل شوي مهال ویش سره سم د ټولو مالي ژمنو تر سره کولو ته ژمن یم، او منم چې مرکز کولی شي د هر هغه زده‌کوونکي حضور مخنیوی وکړي چې خپلې مالي ژمنې یې تر سره نه کړي."
+  },
+  {
+    "key": "rules.span.14",
+    "section": "rules",
+    "label": "متعهد می‌گردم که با علم و اطلاع از وضعیت شغلی، درسی، خانوادگ…",
+    "fa": "متعهد می‌گردم که با علم و اطلاع از وضعیت شغلی، درسی، خانوادگی، اجتماعی، اقتصادی و جسمانی خود اقدام به ثبت‌نام نموده‌ام و بعد از ثبت‌نام، حق هیچ‌گونه تقاضای انصراف، مرخصی یا تمدید دوره را نخواهم داشت.",
+    "en": "I acknowledge that I have registered with full awareness of my occupational, academic, family, social, economic and physical circumstances, and after registration I will have no right to request withdrawal, leave, or course extension.",
+    "ps": "زه ژمنه کوم چې د خپل کاري، زده‌کړیز، کورنی، ټولنیز، اقتصادي او جسمي حالت پوره پوهاوي سره مې نوم لیکنه کړې ده، او د نوم لیکنې وروسته به د بندولو، رخصتۍ یا کورس اوږدولو د غوښتنې هیڅ حق ونه لرم."
+  },
+  {
+    "key": "rules.span.15",
+    "section": "rules",
+    "label": "متعهد می‌گردم که برابر تقویم آموزشی موسسه، در طول دوره حاضر …",
+    "fa": "متعهد می‌گردم که برابر تقویم آموزشی موسسه، در طول دوره حاضر گردم و حق هیچ‌گونه درخواست تغییر یا تاخیر در برنامه‌های آموزشی را نخواهم داشت.",
+    "en": "I am committed to attending throughout the course per the institute's academic calendar, and I will have no right to request any change or delay in the academic schedule.",
+    "ps": "زه ژمنه کوم چې د مرکز د زده‌کړیز تقویم سره سم به د کورس په اوږدو کې حاضر یم او د زده‌کړیزو برنامو په بدلون یا ځنډون کې به د غوښتنې هیڅ حق ونه لرم."
+  },
+  {
+    "key": "rules.span.16",
+    "section": "rules",
+    "label": "می‌پذیرم که در روز و ساعت مقرر که از سمت موسسه یا مدرس مربوط…",
+    "fa": "می‌پذیرم که در روز و ساعت مقرر که از سمت موسسه یا مدرس مربوطه اعلام می‌شود، در آزمون‌ها یا مصاحبه شفاهی حاضر شوم.",
+    "en": "I accept to be present for exams or oral interviews on the date and time announced by the institute or the relevant instructor.",
+    "ps": "زه منم چې په هغه ټاکلي ورځ او ساعت کې چې د مرکز یا اړوند استاد له لوري اعلانیږي، په ازموینو یا شفاهي مرکه کې حاضر شم."
+  },
+  {
+    "key": "rules.span.17",
+    "section": "rules",
+    "label": "می‌پذیرم که هر نوع درخواست، اعتراض یا پیشنهاد خویش را فقط به…",
+    "fa": "می‌پذیرم که هر نوع درخواست، اعتراض یا پیشنهاد خویش را فقط به‌صورت کتبی و انفرادی بر روی برگ درخواست درج نمایم و از بیان آن به‌صورت گروهی یا شفاهی خودداری کنم.",
+    "en": "I accept to submit any request, objection, or suggestion only in writing and individually on a request form, and to refrain from raising it collectively or verbally.",
+    "ps": "زه منم چې هره ډول غوښتنه، اعتراض یا وړاندیز به یوازې لیکلي او انفرادي ډول د غوښتنلیک په پاڼه کې کاږم او د دې د ډله‌ییز یا شفاهي بیانولو نه ډډه کوم."
+  },
+  {
+    "key": "rules.span.18",
+    "section": "rules",
+    "label": "می‌پذیرم و متعهد می‌گردم که در مدت تحصیل، وکیل، وصی یا سخن‌گ…",
+    "fa": "می‌پذیرم و متعهد می‌گردم که در مدت تحصیل، وکیل، وصی یا سخن‌گوی دیگری نداشته باشم و در صورت عدم رعایت این مورد، موسسه هیچ‌گونه تکلیفی برای پاسخ‌گویی نخواهد داشت.",
+    "en": "I accept and commit that during the study period I will not have a lawyer, guardian, or other spokesperson, and if this is not observed, the institute will have no obligation to respond.",
+    "ps": "زه منم او ژمنه کوم چې د زده‌کړې په موده کې به بل وکیل، سرپرست یا استازی ونلرم، او که دا ټکی رعایت نشي، مرکز به د ځواب ورکولو هیڅ مکلفیت ونلري."
+  },
+  {
+    "key": "online-class.span.1",
+    "section": "online-class",
+    "label": "صنف‌های آنلاین",
+    "fa": "صنف‌های آنلاین",
+    "en": "Online Classes",
+    "ps": "آنلاین ټولګي"
+  },
+  {
+    "key": "online-class.h2.2",
+    "section": "online-class",
+    "label": "ورود به صنف‌های آنلاین",
+    "fa": "ورود به صنف‌های آنلاین",
+    "en": "Join Your Online Classes",
+    "ps": "آنلاین ټولګیو ته ننوتل"
+  },
+  {
+    "key": "online-class.p.3",
+    "section": "online-class",
+    "label": "این گزینه مخصوص دانش‌آموزانی است که امکان حضور فیزیکی در موس…",
+    "fa": "این گزینه مخصوص دانش‌آموزانی است که امکان حضور فیزیکی در موسسه را ندارند، به‌خصوص دختران. لینک صنف را استاد شما پیش از هر جلسه در اختیارتان قرار می‌دهد؛ در صورت آماده شدن لینک ثابت، همین‌جا نمایش داده خواهد شد.",
+    "en": "This option is for students who cannot attend the institute in person, particularly girls. Your teacher will share the class link before each session; once a fixed link is ready, it will be shown here.",
+    "ps": "دا ورکړه د هغو زده‌کوونکو لپاره ده چې د مرکز حضوري ګډون یې ممکن نه دی، په ځانګړي توګه نجونې. ستاسو استاد به د هرې ناستې دمخه د ټولګي لینک درکړي؛ کله چې دایمي لینک چمتو شي، دلته به ښودل کیږي."
+  },
+  {
+    "key": "online-class.a.4",
+    "section": "online-class",
+    "label": "دریافت لینک از طریق واتساپ",
+    "fa": "دریافت لینک از طریق واتساپ",
+    "en": "Get the Link via WhatsApp",
+    "ps": "لینک د واتساپ له لارې ترلاسه کړئ"
+  },
+  {
+    "key": "contact.span.1",
+    "section": "contact",
+    "label": "تماس با ما",
+    "fa": "تماس با ما",
+    "en": "Contact Us",
+    "ps": "زموږ سره اړیکه"
+  },
+  {
+    "key": "contact.h2.2",
+    "section": "contact",
+    "label": "راه‌های تماس",
+    "fa": "راه‌های تماس",
+    "en": "Get in Touch",
+    "ps": "د اړیکې لارې"
+  },
+  {
+    "key": "contact.h5.3",
+    "section": "contact",
+    "label": "تماس / واتساپ",
+    "fa": "تماس / واتساپ",
+    "en": "Phone / WhatsApp",
+    "ps": "اړیکه / واتساپ"
+  },
+  {
+    "key": "contact.h5.4",
+    "section": "contact",
+    "label": "ایمیل",
+    "fa": "ایمیل",
+    "en": "Email",
+    "ps": "بریښنالیک"
+  },
+  {
+    "key": "contact.h5.5",
+    "section": "contact",
+    "label": "آدرس",
+    "fa": "آدرس",
+    "en": "Address",
+    "ps": "پته"
+  },
+  {
+    "key": "contact.p.6",
+    "section": "contact",
+    "label": "امام صاحب, کندز, افغانستان",
+    "fa": "امام صاحب, کندز, افغانستان",
+    "en": "Imam Sahib, Kunduz, Afghanistan",
+    "ps": "امام صاحب، کندز، افغانستان"
+  },
+  {
+    "key": "contact.h5.7",
+    "section": "contact",
+    "label": "ساعات کاری",
+    "fa": "ساعات کاری",
+    "en": "Working Hours",
+    "ps": "د کار ساعتونه"
+  },
+  {
+    "key": "contact.p.8",
+    "section": "contact",
+    "label": "همه روز از ساعت ۶ صبح الی ۷ شب، بجز پنج‌شنبه و تعطیلات رسمی",
+    "fa": "همه روز از ساعت ۶ صبح الی ۷ شب، بجز پنج‌شنبه و تعطیلات رسمی",
+    "en": "Every day 6 AM – 7 PM, except Thursdays and official holidays",
+    "ps": "هره ورځ د سهار له ۶ بجو نه تر ماښام ۷ بجو پورې، پرته له پنجشنبې او رسمي رخصتیو نه"
+  },
+  {
+    "key": "contact.a.9",
+    "section": "contact",
+    "label": "واتساپ",
+    "fa": "واتساپ",
+    "en": "WhatsApp",
+    "ps": "واتساپ"
+  },
+  {
+    "key": "register.span.1",
+    "section": "register",
+    "label": "ثبت‌نام",
+    "fa": "ثبت‌نام",
+    "en": "Registration",
+    "ps": "نوم لیکنه"
+  },
+  {
+    "key": "register.h2.2",
+    "section": "register",
+    "label": "همین امروز شروع کن",
+    "fa": "همین امروز شروع کن",
+    "en": "Start Today",
+    "ps": "همدا نن پیل وکړئ"
+  },
+  {
+    "key": "register.p.3",
+    "section": "register",
+    "label": "فرم زیر را پر کن، تیم ما برای تعیین سطح و انتخاب صنف با شما …",
+    "fa": "فرم زیر را پر کن، تیم ما برای تعیین سطح و انتخاب صنف با شما تماس می‌گیرد.",
+    "en": "Fill out the form below and our team will reach out to arrange your placement and class.",
+    "ps": "لاندې فورمه ډکه کړئ، زموږ ډله به ستاسو د کچې ټاکلو او ټولګي غوره کولو لپاره تاسو سره اړیکه ونیسي."
+  },
+  {
+    "key": "register.label.4",
+    "section": "register",
+    "label": "نام کامل",
+    "fa": "نام کامل",
+    "en": "Full Name",
+    "ps": "بشپړ نوم"
+  },
+  {
+    "key": "register.label.5",
+    "section": "register",
+    "label": "شماره تماس",
+    "fa": "شماره تماس",
+    "en": "Phone Number",
+    "ps": "د اړیکې شمېره"
+  },
+  {
+    "key": "register.label.6",
+    "section": "register",
+    "label": "سن",
+    "fa": "سن",
+    "en": "Age",
+    "ps": "عمر"
+  },
+  {
+    "key": "register.label.7",
+    "section": "register",
+    "label": "جنسیت",
+    "fa": "جنسیت",
+    "en": "Gender",
+    "ps": "جنسیت"
+  },
+  {
+    "key": "register.label.8",
+    "section": "register",
+    "label": "صنف مورد نظر",
+    "fa": "صنف مورد نظر",
+    "en": "Class of Interest",
+    "ps": "موخه شوی ټولګی"
+  },
+  {
+    "key": "register.label.9",
+    "section": "register",
+    "label": "سطح فعلی",
+    "fa": "سطح فعلی",
+    "en": "Current Level",
+    "ps": "اوسنۍ کچه"
+  },
+  {
+    "key": "register.label.10",
+    "section": "register",
+    "label": "توضیح تکمیلی (اختیاری)",
+    "fa": "توضیح تکمیلی (اختیاری)",
+    "en": "Additional Notes (optional)",
+    "ps": "بشپړوونکی تشریح (اختیاري)"
+  },
+  {
+    "key": "register.button.11",
+    "section": "register",
+    "label": "ثبت‌نام",
+    "fa": "ثبت‌نام",
+    "en": "Register",
+    "ps": "نوم لیکنه"
+  },
+  {
+    "key": "testimonials.span.1",
+    "section": "testimonials",
+    "label": "نظرات دانش‌آموزان",
+    "fa": "نظرات دانش‌آموزان",
+    "en": "Student Testimonials",
+    "ps": "د زده‌کوونکو نظرونه"
+  },
+  {
+    "key": "testimonials.h2.2",
+    "section": "testimonials",
+    "label": "تجربه‌ات را با ما در میان بگذار",
+    "fa": "تجربه‌ات را با ما در میان بگذار",
+    "en": "Share Your Experience With Us",
+    "ps": "خپله تجربه له موږ سره شریکه کړئ"
+  },
+  {
+    "key": "testimonials.label.3",
+    "section": "testimonials",
+    "label": "نام کامل",
+    "fa": "نام کامل",
+    "en": "Full Name",
+    "ps": "بشپړ نوم"
+  },
+  {
+    "key": "testimonials.label.4",
+    "section": "testimonials",
+    "label": "دوره‌ای که گذرانده‌اید",
+    "fa": "دوره‌ای که گذرانده‌اید",
+    "en": "Course Taken",
+    "ps": "هغه کورس چې تېر کړی مو دی"
+  },
+  {
+    "key": "testimonials.label.5",
+    "section": "testimonials",
+    "label": "استاد مربوطه",
+    "fa": "استاد مربوطه",
+    "en": "Relevant Teacher",
+    "ps": "اړوند ښوونکی"
+  },
+  {
+    "key": "testimonials.label.6",
+    "section": "testimonials",
+    "label": "کدام لیول",
+    "fa": "کدام لیول",
+    "en": "Which Level",
+    "ps": "کومه کچه"
+  },
+  {
+    "key": "testimonials.label.7",
+    "section": "testimonials",
+    "label": "نظر شما",
+    "fa": "نظر شما",
+    "en": "Your Review",
+    "ps": "ستاسو نظر"
+  },
+  {
+    "key": "testimonials.button.8",
+    "section": "testimonials",
+    "label": "ثبت نظر",
+    "fa": "ثبت نظر",
+    "en": "Submit Review",
+    "ps": "نظر ثبت کړئ"
+  },
+  {
+    "key": "complaints.span.1",
+    "section": "complaints",
+    "label": "شکایات",
+    "fa": "شکایات",
+    "en": "Complaints",
+    "ps": "شکایتونه"
+  },
+  {
+    "key": "complaints.h2.2",
+    "section": "complaints",
+    "label": "ثبت شکایت",
+    "fa": "ثبت شکایت",
+    "en": "Submit a Complaint",
+    "ps": "شکایت ثبت کړئ"
+  },
+  {
+    "key": "complaints.p.3",
+    "section": "complaints",
+    "label": "اگر مشکل یا نارضایتی‌ای دارید، لطفاً از طریق فرم زیر به ما ا…",
+    "fa": "اگر مشکل یا نارضایتی‌ای دارید، لطفاً از طریق فرم زیر به ما اطلاع دهید.",
+    "en": "If you have an issue or complaint, please let us know through the form below.",
+    "ps": "که تاسو کومه ستونزه یا نارضایتي لرئ، مهرباني وکړئ زموږ سره د لاندې فورمې له لارې اړیکه ونیسئ."
+  },
+  {
+    "key": "complaints.label.4",
+    "section": "complaints",
+    "label": "نام کامل",
+    "fa": "نام کامل",
+    "en": "Full Name",
+    "ps": "بشپړ نوم"
+  },
+  {
+    "key": "complaints.label.5",
+    "section": "complaints",
+    "label": "شماره تماس",
+    "fa": "شماره تماس",
+    "en": "Phone Number",
+    "ps": "د اړیکې شمېره"
+  },
+  {
+    "key": "complaints.label.6",
+    "section": "complaints",
+    "label": "موضوع شکایت",
+    "fa": "موضوع شکایت",
+    "en": "Complaint Subject",
+    "ps": "د شکایت موضوع"
+  },
+  {
+    "key": "complaints.label.7",
+    "section": "complaints",
+    "label": "شرح شکایت",
+    "fa": "شرح شکایت",
+    "en": "Complaint Details",
+    "ps": "د شکایت تفصیل"
+  },
+  {
+    "key": "complaints.button.8",
+    "section": "complaints",
+    "label": "ارسال شکایت",
+    "fa": "ارسال شکایت",
+    "en": "Submit Complaint",
+    "ps": "شکایت ولیږئ"
+  },
+  {
+    "key": "complaints.p.9",
+    "section": "complaints",
+    "label": "شکایت شما مستقیم و محرمانه به مدیریت موسسه ارسال می‌شود.",
+    "fa": "شکایت شما مستقیم و محرمانه به مدیریت موسسه ارسال می‌شود.",
+    "en": "Your complaint will be sent directly and confidentially to institute management.",
+    "ps": "ستاسو شکایت مستقیم او محرم ډول مرکز مدیریت ته لیږل کیږي."
+  },
+  {
+    "key": "global.span.18",
+    "section": "global",
+    "label": "اندیشمندان",
+    "fa": "اندیشمندان",
+    "en": "Andishmandan",
+    "ps": "اندیشمندان"
+  },
+  {
+    "key": "global.p.19",
+    "section": "global",
+    "label": "موسسه زبان اندیشمندان",
+    "fa": "موسسه زبان اندیشمندان",
+    "en": "Andishmandan Institute of Language",
+    "ps": "د اندیشمندان د ژبې زده‌کړې مرکز"
+  },
+  {
+    "key": "global.h5.20",
+    "section": "global",
+    "label": "تماس با ما",
+    "fa": "تماس با ما",
+    "en": "Contact",
+    "ps": "زموږ سره اړیکه"
+  },
+  {
+    "key": "global.p.21",
+    "section": "global",
+    "label": "امام صاحب، کندز، افغانستان",
+    "fa": "امام صاحب، کندز، افغانستان",
+    "en": "Imam Sahib, Kunduz, Afghanistan",
+    "ps": "امام صاحب، کندز، افغانستان"
+  },
+  {
+    "key": "global.a.22",
+    "section": "global",
+    "label": "واتساپ",
+    "fa": "واتساپ",
+    "en": "WhatsApp",
+    "ps": "واتساپ"
+  },
+  {
+    "key": "global.h5.23",
+    "section": "global",
+    "label": "لینک‌ها",
+    "fa": "لینک‌ها",
+    "en": "Links",
+    "ps": "تړنې"
+  },
+  {
+    "key": "global.a.24",
+    "section": "global",
+    "label": "درباره ما",
+    "fa": "درباره ما",
+    "en": "About",
+    "ps": "زموږ په اړه"
+  },
+  {
+    "key": "global.a.25",
+    "section": "global",
+    "label": "دوره‌ها",
+    "fa": "دوره‌ها",
+    "en": "Courses",
+    "ps": "کورسونه"
+  },
+  {
+    "key": "global.a.26",
+    "section": "global",
+    "label": "قوانین و مقررات",
+    "fa": "قوانین و مقررات",
+    "en": "Rules",
+    "ps": "قوانین او مقررات"
+  },
+  {
+    "key": "global.a.27",
+    "section": "global",
+    "label": "ثبت شکایت",
+    "fa": "ثبت شکایت",
+    "en": "Complaints",
+    "ps": "شکایت ثبت کړئ"
+  },
+  {
+    "key": "global.span.28",
+    "section": "global",
+    "label": "© تمامی حقوق برای موسسه زبان اندیشمندان محفوظ است.",
+    "fa": "© تمامی حقوق برای موسسه زبان اندیشمندان محفوظ است.",
+    "en": "© All rights reserved — Andishmandan Institute of Language.",
+    "ps": "© ټول حقوق د اندیشمندان د ژبې زده‌کړې مرکز لپاره خوندي دي."
+  }
+]
