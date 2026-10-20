@@ -11,6 +11,9 @@ const adminRoutes = require('./src/routes/admin');
 const contentRoutes = require('./src/routes/content');
 
 const app = express();
+
+// پشت پروکسی Render هستیم؛ بدون این خط، محدودکننده تعداد درخواست خطا می‌دهد و فرم‌ها ارسال نمی‌شوند
+app.set('trust proxy', 1);
 const PORT = process.env.PORT || 3000;
 
 app.use(cors());
