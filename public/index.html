@@ -449,7 +449,7 @@ section[id]{scroll-margin-top:76px;} main:focus{outline:none;}
 <p data-ckey="contact.p.8" data-en="Every day 6 AM – 7 PM, except Thursdays and official holidays" data-fa="همه روز از ساعت ۶ صبح الی ۷ شب، بجز پنج‌شنبه و تعطیلات رسمی" data-ps="هره ورځ د سهار له ۶ بجو نه تر ماښام ۷ بجو پورې، پرته له پنجشنبې او رسمي رخصتیو نه">همه روز از ساعت ۶ صبح الی ۷ شب، بجز پنج‌شنبه و تعطیلات رسمی</p>
 </div>
 </div>
-<div class="map-frame" id="mapBox"><div class="map-consent"><p data-en="The map is provided by Google. Showing it connects your browser to Google, which may store cookies." data-fa="نقشه توسط گوگل ارائه می‌شود. با نمایش آن، مرورگر شما به گوگل وصل می‌شود و گوگل ممکن است کوکی ذخیره کند." data-ps="نقشه د ګوګل له خوا برابریږي. د ښودلو سره ستاسو براوزر ګوګل ته نښلي او ګوګل کېدای شي کوکي وساتي.">نقشه توسط گوگل ارائه می‌شود. با نمایش آن، مرورگر شما به گوگل وصل می‌شود و گوگل ممکن است کوکی ذخیره کند.</p><button type="button" class="btn btn-primary btn-sm" id="loadMap" data-en="Show map" data-fa="نمایش نقشه" data-ps="نقشه ښکاره کړئ">نمایش نقشه</button><a href="https://www.google.com/maps/search/?api=1&amp;query=Imam+Sahib%2C+Kunduz%2C+Afghanistan" target="_blank" rel="noopener noreferrer" data-en="Open in Google Maps" data-fa="باز کردن در گوگل مپ" data-ps="په ګوګل میپ کې خلاص کړئ">باز کردن در گوگل مپ</a></div></div>
+<div class="map-frame" id="mapBox"><iframe src="https://www.google.com/maps?q=Imam+Sahib,+Kunduz,+Afghanistan&amp;output=embed" title="نقشه محل آموزشگاه" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></div>
 <div class="social-row">
 <a aria-label="Instagram" class="social-pill social-icon" href="https://instagram.com/andishmandan.english" rel="noopener noreferrer" target="_blank" title="Instagram">
 <svg fill="none" height="20" stroke="currentColor" stroke-width="1.8" viewbox="0 0 24 24" width="20"><rect height="20" rx="5" width="20" x="2" y="2"></rect><circle cx="12" cy="12" r="4.2"></circle><circle cx="17.2" cy="6.8" fill="currentColor" r="1.1" stroke="none"></circle></svg>
@@ -594,9 +594,6 @@ section[id]{scroll-margin-top:76px;} main:focus{outline:none;}
 <a data-ckey="global.a.25" data-en="Courses" data-fa="دوره‌ها" data-ps="کورسونه" href="#courses">دوره‌ها</a>
 <a data-ckey="global.a.26" data-en="Rules" data-fa="قوانین و مقررات" data-ps="قوانین او مقررات" href="#rules">قوانین و مقررات</a>
 <a data-ckey="global.a.27" data-en="Complaints" data-fa="ثبت شکایت" data-ps="شکایت ثبت کړئ" href="#complaints">ثبت شکایت</a>
-<a href="privacy.html" data-en="Privacy Policy" data-fa="حریم خصوصی" data-ps="د محرمیت تګلاره">حریم خصوصی</a>
-<a href="terms.html" data-en="Terms of Use" data-fa="شرایط استفاده" data-ps="د کارونې شرایط">شرایط استفاده</a>
-<a href="cookies.html" data-en="Cookie Policy" data-fa="سیاست کوکی" data-ps="د کوکیو تګلاره">سیاست کوکی</a>
 </div>
 </div>
 <div class="copyright">
@@ -708,19 +705,6 @@ section[id]{scroll-margin-top:76px;} main:focus{outline:none;}
     type();
   })();
 
-  // --- map: loads only after the visitor clicks ---
-  const mapBtn = document.getElementById('loadMap');
-  if (mapBtn) mapBtn.addEventListener('click', () => {
-    const box = document.getElementById('mapBox');
-    const f = document.createElement('iframe');
-    f.src = 'https://www.google.com/maps?q=Imam+Sahib,+Kunduz,+Afghanistan&output=embed';
-    f.title = uiText.mapTitle[currentLang];
-    f.loading = 'lazy';
-    f.referrerPolicy = 'no-referrer-when-downgrade';
-    box.innerHTML = '';
-    box.appendChild(f);
-  });
-
   // --- form submission ---
   const API_BASE = '/api';
   const formConfigs = [
@@ -770,7 +754,9 @@ section[id]{scroll-margin-top:76px;} main:focus{outline:none;}
   });
 
   // --- editable texts from the admin panel ---
+  const USE_PANEL_TEXTS = false; // true = texts saved in the admin panel override the texts in this file
   (async function loadDynamicContent() {
+    if (!USE_PANEL_TEXTS) return;
     try {
       const res = await fetch(`${API_BASE}/site-content`);
       const data = await res.json();

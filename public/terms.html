@@ -59,7 +59,7 @@ function render(){
   document.getElementById('back').setAttribute('href','index.html#' + lang);
   document.getElementById('home').setAttribute('href','index.html#' + lang);
   const b = document.getElementById('langBtn'); b.textContent = T.btn[lang]; b.setAttribute('aria-label', T.aria[lang]);
-  document.getElementById('foot').innerHTML = FOOT[lang].split('%LANG%').join(lang);
+  
 }
 document.getElementById('langBtn').addEventListener('click', function(){
   lang = order[(order.indexOf(lang)+1) % order.length];
